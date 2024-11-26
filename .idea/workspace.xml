@@ -1,35 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23739479-8b37-4820-b15e-563ef4d0dcda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/10.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/11.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/12.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/13.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/14.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/15.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/16.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/17.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/18.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/19.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/20.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/21.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/22.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/23.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/24.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/4.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/5.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/6.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/7.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/8.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/9.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/main.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/fonts/fonts.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/shared/consts/shop.ts" afterDir="false" />
+    <list default="true" id="23739479-8b37-4820-b15e-563ef4d0dcda" name="Changes" comment="start new project">
+      <change afterPath="$PROJECT_DIR$/src/app/(public)/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/widgets/Layout/DefaultLayout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(public)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/consts/shop.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/consts/shop.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="new-branch" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -59,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/nikita/Documents/layout/aigo-web-html/public",
+    "last_opened_file_path": "/Users/nikita/Documents/layout/aigo-web-html/src/app",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -69,7 +51,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app" />
+      <recent name="$PROJECT_DIR$/src/app/(public)" />
       <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -99,5 +86,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start new project" />
+    <option name="LAST_COMMIT_MESSAGE" value="start new project" />
   </component>
 </project>
